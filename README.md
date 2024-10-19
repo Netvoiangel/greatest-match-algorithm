@@ -23,7 +23,7 @@
    
 2. Перейдите в папку проекта:
    ```bash
-   greatest-match-algorithm
+   cd greatest-match-algorithm
    ```
 
 3. Убедитесь, что у вас установлен Python версии 3.9 или выше.
